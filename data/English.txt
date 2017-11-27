@@ -1,0 +1,2 @@
+Identifies the language of any text, from a list of more than 160 languages. It's based on the franc library, which bases the language detection process on N-grams. It supports different scripts and provides the language results using the ISO639 standard (both for two and three characters).
+This API helps automatize multilingual sourced applications either by correcting a manual detection preprocessing or by avoiding it altogether.
